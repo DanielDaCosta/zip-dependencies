@@ -3,6 +3,8 @@ Shell script to zip python packages for lambda using Docker.
 
 You must have Docker installed in order to execute the script.
 
+Uses python3.7.
+
 # Usage
 
 Save your python dependencies in ```requirements.txt```.
@@ -15,4 +17,4 @@ chmod +x build.sh
 
 Execute the script ```./build.sh```
 
-Your dependencies will be save in the folder ```build/```
+Your dependencies will be save in ```build/```.
