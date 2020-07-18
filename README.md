@@ -3,7 +3,9 @@ Shell script to zip python dependencies when uploading them to lambda.
 
 You must have Docker installed in order to execute the script.
 
-Uses python3.7. You can change for any other python version changing the docker image
+Uses python3.7. You can change for any other python version changing the docker image ```python:3.7-slim```
+in ```build.sh```.
+
 # Usage
 
 Save your python dependencies in ```requirements.txt```.
