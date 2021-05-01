@@ -1,4 +1,4 @@
-# zip-dependecies
+# Zipping Python Dependecies
 Shell script to zip python dependencies when uploading them to lambda.
 
 You must have Docker installed in order to execute the script.
