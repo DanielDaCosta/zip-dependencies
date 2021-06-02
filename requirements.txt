@@ -38,7 +38,7 @@ sendgrid==6.4.3
 six==1.14.0
 starkbank-ecdsa==1.0.0
 twilio==6.40.0
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 zipp==3.1.0
 zope.event==4.4
