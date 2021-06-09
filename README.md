@@ -7,7 +7,6 @@ Uses python3.7. You can change for any other python version changing the docker 
 in ```build.sh```.
 
 # Usage
-
 Save your python dependencies in ```requirements.txt```.
 
 Make ```build.sh``` an executable using:
