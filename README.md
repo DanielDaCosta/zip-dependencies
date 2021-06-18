@@ -17,4 +17,4 @@ chmod +x build.sh
 
 Execute the script ```./build.sh```
 
-Your dependencies will be save in the following folder: ```build/```.
+Your dependencies will be save in the following folder: ```build/```
