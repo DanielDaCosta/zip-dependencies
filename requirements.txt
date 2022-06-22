@@ -20,7 +20,7 @@ locust==1.0.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 msgpack==1.0.0
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 psutil==5.7.0
 psycopg2-binary==2.8.5
